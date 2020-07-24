@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  
+  {:chocolate_type => "milk"}
 end
 
 def pioneer
